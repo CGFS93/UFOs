@@ -14,8 +14,11 @@ Create a Webpage and dynamic table, provide a more in-depth analysis of UFO sigh
 
 -The filterTable() function loops through all of the filters and keeps any data that matches the filter values. 
 
+![Filter](Image/Filter.png)
+
 -The webpage filters the table correctly based on user input.
 
+![Working_Filter](Image/Working_Filters.png)
 
 ## Summary:
 
